@@ -25,7 +25,7 @@ array(3) { ["id"]=> string(1) "1" ["title"]=> string(10) "Foo" }
 array(3) { ["id"]=> string(2) "1" ["title"]=> string(10) "Bar" }
 ```
 
-###Current progress:
+### Current progress:
 - Simple SELECT queries work good;
 - SELECTS with GROUP BY - working, but no tests;
 - Simple UPDATE`s working;
@@ -37,7 +37,7 @@ array(3) { ["id"]=> string(2) "1" ["title"]=> string(10) "Bar" }
 - Mock DB driver - working, but need improvements;
 - Unit testing - need more good tests;
 
-###Long-term plans:
+### Long-term plans:
 
 - to finish basic functionality;
 - improve tests coverage;
@@ -53,7 +53,7 @@ Author: Konstantin Puchkov.
 
 Once you want to help - fell free to make a PR. 
 
-###Some codestyle rules:
+### Some codestyle rules:
 
 - use CamelCase;
 - use true or false, not TRUE or FALSE;
