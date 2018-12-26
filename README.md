@@ -7,7 +7,7 @@ Current version: 0.0.4
 Release date: unknown. I`m working on it in holidays, sometimes.
 
 It`s small and simple database abstraction library,
-which allows you to build complicated DB queries in symple syntax.
+which allows you to build DB queries in symple syntax.
 
 For example:
 
